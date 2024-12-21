@@ -1,6 +1,6 @@
 ARG MAJOR_VERSION="${CENTOS_MAJOR_VERSION:-stream10}"
 
-FROM quay.io/centos-bootc/centos-bootc:$MAJOR_VERSION
+FROM ghcr.io/ublue-os/bazzite-gnome:stable
 
 COPY build.sh /tmp/build.sh
 
