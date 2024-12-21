@@ -1,3 +1,3 @@
-# CentOS Workstation
+# Bazzite Cosmic
 
-CentOS Stream-based images so that you can build your own ones easier.
+This is an example of how one would make a Cosmic Bazzite image. Copy this and be the change you want to see in the world! <3
