@@ -2,5 +2,5 @@
 
 set -euox pipefail
 
-dnf -y install @cosmic-desktop @cosmic-desktop-apps
-dnf clean
+dnf5 -y install @cosmic-desktop @cosmic-desktop-apps
+dnf5 clean
